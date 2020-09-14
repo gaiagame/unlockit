@@ -76,7 +76,7 @@
                  "value":"https:\/\/r3.whiteboardfox.com\/3695597-4822-9340"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -94,7 +94,7 @@
                  "value":"imaginaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -112,7 +112,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -127,10 +127,10 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/youtu.be\/KSt8bVW-9lE"
+                 "value":"https:\/\/sound.garden\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -145,7 +145,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.canva.com\/design\/DAEHxNpkc5U\/ZNHugE57PTBQUekvvGp7QA\/view?utm_content=DAEHxNpkc5U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+                 "value":"https:\/\/app.ziteboard.com\/team\/b2ae799e-df6e-4f8a-9af1-d9f80a22219a"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -163,10 +163,10 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/miro.com\/welcomeonboard\/pKr3WmI53RN85cEOgOVUkkoSOMjbkUIgHYcgMRSCOj7zb3e7te4E5YiCplaVtiX0"
+                 "value":"https:\/\/miro.com\/welcomeonboard\/https:\/\/app.ziteboard.com\/?code=b2ae799e-df6e-4f8a-9af1-d9f80a22219a"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -184,7 +184,7 @@
                  "value":"imaginDisco"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -199,7 +199,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/prezi.com\/p\/5gr0b09boq_l\/?present=1"
+                 "value":"https:\/\/sound.garden\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -232,7 +232,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
