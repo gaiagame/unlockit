@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/view.ziteboard.com\/shared\/26455757100612"
+                 "value":"https:\/\/view.ziteboard.com\/shared\/14584067100614"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -181,7 +181,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/view.ziteboard.com\/shared\/17568557100618"
+                 "value":"https:\/\/view.ziteboard.com\/shared\/14584067100614"
                 }],
          "type":"tilelayer",
          "visible":true,
