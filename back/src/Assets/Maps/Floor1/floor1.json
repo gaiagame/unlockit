@@ -82,7 +82,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -97,7 +97,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Floor0\/floor0.json#down-the-stairs"
+                 "value":"\/Floor0\/floor0.json#down-the-stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -123,7 +123,7 @@
          "name":"Image Layer 1",
          "opacity":1,
          "type":"imagelayer",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -134,7 +134,7 @@
          "name":"ecran",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
