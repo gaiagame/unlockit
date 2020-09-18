@@ -8,8 +8,7 @@
         },
      "export":
         {
-         "format":"json",
-         "target":"map.json"
+         "format":"json"
         }
     },
  "height":34,
@@ -202,7 +201,7 @@
                  "value":"https:\/\/open.spotify.com\/playlist\/3OjCU1oq1FasKc8my5eA2n?si=BNIUETSjQA2yPgnP_2A0hA"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -217,7 +216,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/imaginaction.org\/"
+                 "value":"https:\/\/imaginaction.org"
                 }],
          "type":"tilelayer",
          "visible":true,
