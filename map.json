@@ -94,7 +94,7 @@
                  "value":"ImaginCircle"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -112,7 +112,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -130,7 +130,7 @@
                  "value":"https:\/\/view.ziteboard.com\/shared\/45861524200616"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -148,7 +148,7 @@
                  "value":"DreamRoom"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -166,7 +166,7 @@
                  "value":"https:\/\/freesound.org\/people\/ayamahambho\/sounds\/471119\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -184,7 +184,7 @@
                  "value":"ImaginLiving"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -202,7 +202,7 @@
                  "value":"imaginDisco"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -220,7 +220,7 @@
                  "value":"https:\/\/imaginaction.org"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -238,7 +238,7 @@
                  "value":"https:\/\/view.ziteboard.com\/shared\/23227494200617"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -256,7 +256,7 @@
                  "value":"https:\/\/sound.garden\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -271,10 +271,10 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/Garden\/garden.json"
+                 "value":"\/maps\/Garden\/garden.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
