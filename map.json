@@ -271,7 +271,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/maps\/Garden\/garden.json"
+                 "value":"unlockit\/maps\/Garden\/garden.json"
                 }],
          "type":"tilelayer",
          "visible":true,
