@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/maps\/Floor\/floor1.json"
+                 "value":"unlockit\/maps\/Floor\/floor1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -289,7 +289,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/COLAB\/colab.json"
+                 "value":"unlockit\/COLAB\/colab.json"
                 }],
          "type":"tilelayer",
          "visible":true,
