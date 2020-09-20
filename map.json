@@ -36,7 +36,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/maps\/Floor\/floor1.json"
+                 "value":"http:\/\/imaginaction.org\/"
                 }],
          "type":"tilelayer",
          "visible":true,
