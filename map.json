@@ -289,7 +289,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"maps\/colab.json"
+                 "value":"\/maps\/colab.json"
                 }],
          "type":"tilelayer",
          "visible":true,
