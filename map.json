@@ -1079,19 +1079,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "columns":47,
-         "firstgid":321,
-         "image":"..\/..\/..\/..\/Desktop\/BAHIR TOOLs\/Colorful-Circles-World-Map.png",
-         "imageheight":1185,
-         "imagewidth":2378,
-         "margin":0,
-         "name":"Colorful-Circles-World-Map",
-         "spacing":0,
-         "tilecount":1081,
-         "tileheight":50,
-         "tilewidth":50
         }],
  "tilewidth":32,
  "type":"map",
